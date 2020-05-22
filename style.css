@@ -1,0 +1,43 @@
+body {
+	background-image: url(images/fondo.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.font-open-sans {
+	font-family: 'Open Sans', sans-serif;
+}
+
+body .btn-danger {
+	background-color: #f8393a;
+}
+body .btn-primary {
+	background-color: #007abe;
+}
+body .btn-success {
+	background-color: #00a957;
+}
+body .border-danger {
+	border-color: #be1f20 !important;;
+}
+body .border-primary {
+	border-color: #095e8e !important;
+}
+body .border-success {
+	border-color: #04763f !important;
+}
+body .text-danger {
+	color: #f8393a !important;;
+}
+body .bg-info {
+	background-color: #3faedc !important;
+}
+
+#header #buttons {
+	margin-top: -40px;
+}
+
+#tips p {
+	font-size: .8rem;
+}
